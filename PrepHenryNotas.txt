@@ -1,0 +1,15 @@
+Instalar Node.js       node -v //valida la instalcion desde cmd se ejecuta
+Instalar Editor de Texto
+Instalar GitHub y crear cuenta en la página //git --version desde Gith bash
+
+
+Fork, code, copiar url, ir a Git bash en cualquier lugar click derecho, git clone + url de clone
+Abrir carpeta desde editor de texto
+
+
+Ctrl + ñ   Sacar consola Git bash
+
+git status
+git add -nombre_de_archivo-
+git status   //para validar modificacion
+git commit -m "mensaje" //ejecutar cambios
